@@ -63,6 +63,16 @@
 </picture>
 </div>
 
+## 🎮 3D contribution grid
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alenovan/alenovan/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alenovan/alenovan/main/profile-3d-contrib/profile-green-animate.svg"/>
+  <img alt="3d contribution graph" src="https://raw.githubusercontent.com/alenovan/alenovan/main/profile-3d-contrib/profile-green-animate.svg" width="98%"/>
+</picture>
+</div>
+
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer"/>
